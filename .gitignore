@@ -1,0 +1,9 @@
+node_modules/
+
+# Python virtual environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS artifacts
+.DS_Store
