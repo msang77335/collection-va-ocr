@@ -1,3 +1,8 @@
 opencv-python>=4.5.0
 numpy>=1.21.0
 Pillow>=9.0.0
+
+# OCR (chọn một trong hai)
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+# hoặc: easyocr>=1.7.0

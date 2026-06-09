@@ -1,0 +1,19 @@
+[
+  {
+    "recordId": "0a0f201a-4e0b-41f2-a884-8b60944c4663",
+    "bankAccountNumber": "96988900324453",
+    "filename": "0a0f201a-4e0b-41f2-a884-8b60944c4663_96988900324453_frontIdCard.jpg",
+    "ocrData": {
+      "success": true,
+      "side": "back",
+      "fields": {
+        "签发机关": "普宁市公安局",
+        "有效期限": "2020.06.30-2040.06.30",
+        "file": "0a0f201a-4e0b-41f2-a884-8b60944c4663_96988900324453_frontIdCard.jpg",
+        "degrees": 90
+      }
+    },
+    "processedAt": "2026-06-09T05:04:57.150Z",
+    "success": true
+  }
+]
