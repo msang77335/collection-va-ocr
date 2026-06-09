@@ -1,5 +1,7 @@
 # collection-va-ocr
 
+GitHub repository: https://github.com/msang77335/collection-va-ocr
+
 Hướng dẫn chạy OCR hàng loạt theo danh sách trong file va-info-list.json.
 
 ## 1. Clone mã nguồn
